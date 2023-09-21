@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Pérez Numa</h1>
-<h3 align="center">A passionate backend developer from Colombia. I absolutely love working on the "invisible" but essential aspects of web applications.</h3>
+
+-------------
+
+<h4 align="center">A passionate backend developer from Colombia. I absolutely love working on the "invisible" but essential aspects of web applications.</h4>
 
 -------------
 
